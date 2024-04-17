@@ -7,7 +7,7 @@ This PHP script generates random passwords of specified length. It can be useful
 1. **Download or Clone the Repository**: You can download the repository as a ZIP file or clone it using Git.
 
     ```bash
-    git clone https://github.com/abdulrehman3725/randompassword.git
+    git clone https://github.com/yourusername/your-repository.git
     ```
 
 2. **Include the Script**: Include the `generate_password.php` file in your PHP project.
